@@ -12,6 +12,6 @@ This project develops a model for diagnosing depression based on speech using a 
    ```
    
 ## Training & Evaluations
-1. Run following line:
+2. Run following line:
    ```bash
    python main.py
