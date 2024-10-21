@@ -9,3 +9,9 @@ This project develops a model for diagnosing depression based on speech using a 
    ```bash
    git clone https://github.com/fiyud/Emotional-Vietnamese-Speech-Based-Depression-Diagnosis-Using-Dynamic-Attention-Mechanism.git
    cd Emotional-Vietnamese-Speech-Based-Depression-Diagnosis-Using-Dynamic-Attention-Mechanism
+   ```
+
+## Training & Evaluations
+   ```bash
+   #Run
+   python main.py
